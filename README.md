@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔮 iGlass AI Ultimate Pro
+# 🔮 Mr AI ChatBot
 ### The Next-Generation Client-Side AI Interface
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -151,7 +151,7 @@ We welcome contributions from the community!
 
 <div align="center">
 
-**Developed with ❤️ by iGlass AI Team**
+**Developed with ❤️ by Tanvir Tasin**
 <br>
 *Simplicity is the ultimate sophistication.*
 
